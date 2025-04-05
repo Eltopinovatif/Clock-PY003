@@ -7,3 +7,5 @@ https://github.com/Eltopinovatif/Clock-PY003/blob/main/Tombol%20Clock%20PY003.jp
 https://github.com/Eltopinovatif/Clock-PY003/blob/main/Remote%20Clock%20PY003.jpg
 
 https://github.com/Eltopinovatif/Clock-PY003/blob/main/Circuite%20Clock%20PY003.jpg
+
+https://github.com/Eltopinovatif/Clock-PY003/blob/main/Display%20Clock%20PY003.jpg
