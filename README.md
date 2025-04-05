@@ -16,3 +16,6 @@ https://github.com/Eltopinovatif/Clock-PY003/blob/main/Display%20Clock%20PY003.j
 
 all dokumen disini
 https://github.com/Eltopinovatif/Clock-PY003/blob/main/Dok%20clock%20PY003.pdf
+
+contoh vidio jam stopwatt condown disini
+https://github.com/Eltopinovatif/Clock-PY003/blob/main/clock%20PY003.mp4
